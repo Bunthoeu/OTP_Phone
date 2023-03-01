@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "293048549255",
+    "project_id": "top-phone-dc87f",
+    "storage_bucket": "top-phone-dc87f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293048549255:android:b254214efb79228d525d22",
+        "android_client_info": {
+          "package_name": "com.example.phone_otp_ui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "293048549255-ais0nc32njbrvjjd26fro4q4o0jgh5a5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyk5TF82f4lsxzaCTvXmRxeTIwV7SSn7g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "293048549255-ais0nc32njbrvjjd26fro4q4o0jgh5a5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
