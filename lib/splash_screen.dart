@@ -30,7 +30,7 @@ class _SplashScreenState extends State<SplashScreen> {
       () => Navigator.pushReplacement(
         context,
         MaterialPageRoute(
-          builder: (context) =>phone==null? LoginScreen():HomePage(),
+          builder: (context) =>phone==null? MyPhone():HomePage(),
         ),
       ),
     );
